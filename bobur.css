@@ -1,72 +1,21 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: #296ed7;
+    top: 0;
 }
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    height: 7rem;
-    /* background-color: rgb(134, 134, 134); */
-}
-.logo{
-    margin-left: 12rem;
-}
-li{
-    list-style: none;
-}
-a{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
+    height: 4rem;
+    background-color: slategrey;
 
 }
-ul{
+.menu{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    font-size: 1.05rem;
-    /* width: 55rem;
-    height: 4rem; */
-    gap: 3rem;
-    /* background-color: aquamarine; */
-    margin-right: 8rem;
-}
-.insta{
-    width: 20px;
-    margin-right: 5rem;
-}
-.face{
-    width: 25px;
-    margin-left: -6rem;
-}
-.text{
-    font-size: 4rem;
-    color: rgb(255, 255, 255);
-    margin: 8rem 12rem;
-}
-.text1{
-    color: rgb(255, 255, 255);
-    margin: -7rem 13rem;
-}
-button{
-    width: 9rem;
-    height: 2.7rem;
-    border-radius: 20px;
-    background-color: yellow;
-    border: 1px solid yellow;
-    margin: 8.5rem 13rem;
-}
-button:hover{
-    background-color: rgb(225, 225, 67);
-    -webkit-box-shadow: -5px 11px 77px -10px rgba(238, 245, 16, 0.63);
-    -moz-box-shadow: -5px 11px 77px -10px rgba(238, 245, 16, 0.63);
-    box-shadow: -5px 11px 77px -10px rgba(238, 245, 16, 0.63);
-
-}
-.robot{
-    width: 30rem;
-    margin-left: 20rem;
-    margin-top: -10rem;
+    width: 70rem;
+    height: 4rem;
+    background-color: aqua;
 }
