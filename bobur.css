@@ -107,7 +107,7 @@ button:hover{
     margin-top: 1.5rem;
 }
 .hh{
-    margin-left: 3.4rem;
+    margin-left: 3.5rem;
     margin-top: -0.4rem;
 }
 .n2{
@@ -119,4 +119,13 @@ button:hover{
     width: 30rem;
     height: 11rem;
     background-color: rgb(255, 255, 255);
+}
+.logorasm1{
+    width: 10rem;
+    margin-left: 2rem;
+    margin-top: 1.25rem;
+}
+.hhh{
+    margin-left: 3.75rem;
+    margin-top: -0.4rem;
 }
