@@ -1,6 +1,11 @@
 body{
     padding: 0;
     margin: 0;
+    /* background-color: #296ed7; */
+}
+.color{
+    width: 100%;
+    height: 40rem;
     background-color: #296ed7;
 }
 nav{
@@ -69,4 +74,49 @@ button:hover{
     width: 30rem;
     margin-left: 20rem;
     margin-top: -10rem;
+}
+.color1{
+    margin-top: 0;
+    width: 100%;
+    height: 40rem;
+    background-color: rgb(224, 224, 224);
+}
+.karobka{
+    display: flex;
+    gap: 2rem;
+    margin: 5rem 8rem;
+}
+.naz{
+    font-size: 2.5rem;
+    margin-left: 24rem;
+    margin-top: 0rem;
+}
+.n1{
+    width: 14rem;
+    height: 11rem;
+    background-color: rgb(255, 255, 255);
+}
+.logorasm{
+    width: 10rem;
+    margin-left: 2rem;
+    margin-top: 1.25rem;
+}
+.h{
+    font-size: 1.2rem;
+    margin-left: 3.4rem;
+    margin-top: 1.5rem;
+}
+.hh{
+    margin-left: 3.4rem;
+    margin-top: -0.4rem;
+}
+.n2{
+    width: 14rem;
+    height: 11rem;
+    background-color: rgb(255, 255, 255);
+}
+.n3{
+    width: 30rem;
+    height: 11rem;
+    background-color: rgb(255, 255, 255);
 }
