@@ -94,7 +94,7 @@ button:hover{
 .n1{
     width: 14rem;
     height: 11rem;
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
 }
 .logorasm{
     width: 10rem;
@@ -116,7 +116,7 @@ button:hover{
     background-color: rgb(255, 255, 255);
 }
 .n3{
-    width: 30rem;
+    width: 39rem;
     height: 11rem;
     background-color: rgb(255, 255, 255);
 }
@@ -128,4 +128,17 @@ button:hover{
 .hhh{
     margin-left: 3.75rem;
     margin-top: -0.4rem;
+}
+.rasm{
+    border-radius: 50%;
+    margin: 1rem 2rem;
+}
+.rasm1{
+    font-size: 1.2rem;
+    margin: -0.7rem 2rem;
+}
+.rasm2{
+    font-size: 1.2rem;
+    margin-left: 10rem;
+    margin-top: -6.5rem;
 }
